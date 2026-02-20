@@ -22,6 +22,9 @@ FEATURES
 PROJECT DOCUMENTATION
 The link for the project documentation that has more information about this project :
 1.Document format: https://docs.google.com/document/d/1ToEfVIK1rJLlm8QDzBSYkcHBYe3RPVZh/edit?usp=drive_link&ouid=116516476199843287461&rtpof=true&sd=true
+
 2.PDF format: https://drive.google.com/file/d/18Vj6bl0X6_I7pf0Vg0-xQesk5s8uBFrx/view?usp=drive_link
+
 DEMO VIDEO
+
 The link for the demo video of the project : https://drive.google.com/file/d/1pK68hXA-XkVRa0NP7sNFKLVROnN5okOf/view?usp=drive_link
